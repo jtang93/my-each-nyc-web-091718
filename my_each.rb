@@ -8,6 +8,7 @@ def my_each(array) # put argument(s) here
   array
 end
 
+array = []
 my_each(array) do |i|
   i
 end
